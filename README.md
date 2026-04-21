@@ -3,10 +3,10 @@
 > Healthcare ERP platform managing Medical Billing, AR Services, 
 > Physician Credentialing, Attendance, and Task Management.
 
-## Microservices System Architecture(New)
+## Target Microservices Architecture
 ![IMPERIUM Architecture](New%20Microservices%20Architecture%20-%20IMPERIUM.png)
 
-## Monolithic System Architecture(Existing)
+## Legacy Monolithic Architecture
 ![IMPERIUM Architecture](Old%20Monolithic%20Architecture%20-%20IMPERIUM.png)
 
 
