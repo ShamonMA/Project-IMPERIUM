@@ -3,8 +3,12 @@
 > Healthcare ERP platform managing Medical Billing, AR Services, 
 > Physician Credentialing, Attendance, and Task Management.
 
-## System Architecture
+## Microservices System Architecture(New)
 ![IMPERIUM Architecture](New%20Microservices%20Architecture%20-%20IMPERIUM.png)
+
+## Monolithic System Architecture(Existing)
+![IMPERIUM Architecture](Old%20Monolithic%20Architecture%20-%20IMPERIUM.png)
+
 
 ## Tech Stack
 - **Frontend:** React JS, MVC, jQuery, Bootstrap, Knockout.js
