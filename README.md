@@ -4,7 +4,7 @@
 > Physician Credentialing, Attendance, and Task Management.
 
 ## System Architecture
-![IMPERIUM Architecture](New Microservices Architecture - IMPERIUM.png)
+![IMPERIUM Architecture](New%20Microservices%20Architecture%20-%20IMPERIUM.png)
 
 ## Tech Stack
 - **Frontend:** React JS, MVC, jQuery, Bootstrap, Knockout.js
