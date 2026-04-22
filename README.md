@@ -10,24 +10,21 @@
 ![IMPERIUM Architecture](Old%20Monolithic%20Architecture%20-%20IMPERIUM.png)
 
 
-## DIGIPAY(Payments)
-![IMPERIUM Architecture](DIGIPAY.jpg)
+## Operational Workflow Diagrams – Sample Collection
+![IMPERIUM Architecture](DIGIPAY.jpg) 
+![IMPERIUM Architecture](DIGICOLLECT.jpg) 
+![IMPERIUM Architecture](DIGIDESK.jpg) 
 
-## DIGICOLLECT(AR)
-![IMPERIUM Architecture](DIGICOLLECT.jpg)
-
-## DIGIFORCE(Billling)
-![IMPERIUM Architecture](DIGIFORCE.jpg)
-
-## DIGIDESK(Patient Vist)
-![IMPERIUM Architecture](DIGIDESK.jpg)
-
-## DIGIFORCE Database Diagram
+## Database Diagram – Sample Collection
 ![IMPERIUM Architecture](Database_Diagram_Digiforce.png)
+ 
+## UI Screens – Sample Collection
+![IMPERIUM Architecture](Screen_BillingQueue.png)
+![IMPERIUM Architecture](Screen_Digiforce_OverallSummary.png)
+![IMPERIUM Architecture](Screen_InternalException.png)
 
 ## Solution Repository
 ![IMPERIUM Architecture](SolutionRepository.png)
-
 
 ## Tech Stack
 - **Frontend:** React JS, MVC, jQuery, Bootstrap, Knockout.js
