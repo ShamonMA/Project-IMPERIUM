@@ -10,16 +10,16 @@
 ![IMPERIUM Architecture](Old%20Monolithic%20Architecture%20-%20IMPERIUM.png)
 
 
-## DIGIPAY(Payments) Workflow
+## DIGIPAY(Payments)
 ![IMPERIUM Architecture](DIGIPAY.jpg)
 
-## DIGICOLLECT(AR) Workflow
+## DIGICOLLECT(AR)
 ![IMPERIUM Architecture](DIGICOLLECT.jpg)
 
-## DIGIFORCE(Billling) Workflow
+## DIGIFORCE(Billling)
 ![IMPERIUM Architecture](DIGIFORCE.jpg)
 
-## DIGIDESK(Patient Vist) Workflow
+## DIGIDESK(Patient Vist)
 ![IMPERIUM Architecture](DIGIDESK.jpg)
 
 
