@@ -10,6 +10,19 @@
 ![IMPERIUM Architecture](Old%20Monolithic%20Architecture%20-%20IMPERIUM.png)
 
 
+## DIGIPAY(Payments) Workflow
+![IMPERIUM Architecture](DIGIPAY.jpg)
+
+## DIGICOLLECT(AR) Workflow
+![IMPERIUM Architecture](DIGICOLLECT.jpg)
+
+## DIGIFORCE(Billling) Workflow
+![IMPERIUM Architecture](DIGIFORCE.jpg)
+
+## DIGIDESK(Patient Vist) Workflow
+![IMPERIUM Architecture](DIGIDESK.jpg)
+
+
 ## Tech Stack
 - **Frontend:** React JS, MVC, jQuery, Bootstrap, Knockout.js
 - **Backend:** ASP.NET MVC 4.0, .NET 8 Web API
