@@ -1,7 +1,6 @@
 # IMPERIUM - Medical Billing System
 
-> Healthcare ERP platform managing Medical Billing, AR Services, 
-> Physician Credentialing, Attendance, and Task Management.
+> IMPERIUM is a large-scale, enterprise-grade Healthcare ERP platform built on ASP.NET MVC 4.0, managing the full revenue cycle and back-office operations of healthcare organizations. The system spans Medical Billing (DigiForce), Accounts Receivable Management (ARMS), Clinical Quality Tracking (DigiQuality), Charge & Claim Scrubbing (DigiScrub), Physician Credentialing (CRDL), Staff Attendance & HR (TimeSheet/HR), and Business Analytics (DigiData) — all under a unified monolithic architecture comprising 1000+ screens, 77 controllers, 20+ business modules, 450+ database tables, 2000+ stored procedures, 630+ indexes, and integrations with Google Drive API, AWS SQS, SMTP, and HL7-based healthcare interoperability standards.
 
 ## Target Microservices Architecture
 ![IMPERIUM Architecture](New%20Microservices%20Architecture%20-%20IMPERIUM.png)
