@@ -25,6 +25,9 @@
 ## DIGIFORCE Database Diagram
 ![IMPERIUM Architecture](Database_Diagram_Digiforce.png)
 
+## Solution Repository
+![IMPERIUM Architecture](SolutionRepository.png)
+
 
 ## Tech Stack
 - **Frontend:** React JS, MVC, jQuery, Bootstrap, Knockout.js
