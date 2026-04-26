@@ -27,9 +27,10 @@
 ![IMPERIUM Architecture](SolutionRepository.png)
 
 ## Tech Stack
+
 - **Frontend:** React JS, MVC, jQuery, Bootstrap, Knockout.js
 - **Backend:** ASP.NET MVC 4.0, .NET 8 Web API
 - **Database:** MS SQL Server (450+ tables, 2000+ stored procedures)
 - **ORM:** Entity Framework 6.0 (26 EDMX Models)
-- **Cloud:** AWS SQS
-- **Integrations:** Google Drive API, Email (SMTP)
+- **Cloud:** AWS Cloud services (CI/CD Pipeline, SQS, Lambda Functions)
+- **Integrations:** Google Drive API, Email (SMTP), HL7 APIs
