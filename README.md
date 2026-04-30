@@ -7,7 +7,7 @@
 ![IMPERIUM Architecture](IMPERIUM-ERP-Micro-Services-Architecture.png)
 
 ## Legacy Monolithic Architecture
-![IMPERIUM Architecture](Old%20Monolithic%20Architecture%20-%20IMPERIUM.png)
+![IMPERIUM Architecture](Old-Monolithic-Architecture-IMPERIUM.png)
 
 
 ## Operational Workflow Diagrams – Sample Collection
